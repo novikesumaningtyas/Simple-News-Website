@@ -1,0 +1,77 @@
+﻿@model IEnumerable<News.Models.Article>
+
+@Scripts.Render("~/Scripts/Table.js")
+<link href="~/Content/StyleSheet2.css" rel="stylesheet" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Our Articles</h2>
+<p>
+    <h5 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"> Put any keyword you want to search in Search Box</h5>
+</p>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="data" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("Date")
+
+            </th>
+            <th>
+                @Html.Label("Author ID")
+            </th>
+            <th>
+                @Html.Label("Title")
+            </th>
+            <th>
+                @Html.Label("Topic")
+            </th>
+            <th>
+                @Html.Label("Content")
+            </th>
+            <th>
+                @Html.Label("Created by")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.authorId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.topic)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Journalist1.FName)
+                </td>
+                <td>
+                    @*@Html.ActionLink("Edit", "Edit", new { id = item.articleID }) |*@
+                    @Html.ActionLink("Details", "Details", new { id = item.articleID })|
+                    @Html.ActionLink("Delete", "Delete", new { id = item.articleID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

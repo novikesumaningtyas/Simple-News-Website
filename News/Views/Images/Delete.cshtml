@@ -1,0 +1,57 @@
+﻿@model News.Models.Image
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        @*<dt>
+                @Html.DisplayNameFor(model => model.userName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.userName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.name)
+            </dd>*@
+
+        <dt>
+            @Html.Label("File Name")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fileName)
+        </dd>
+
+        <dt>
+            @Html.Label("Image")
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.image1)*@
+            <img src="data:image/png;base64,@Convert.ToBase64String(Model.image1,0,Model.image1.Length)" width="220" />
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Gallery")
+        </div>
+    }
+</div>

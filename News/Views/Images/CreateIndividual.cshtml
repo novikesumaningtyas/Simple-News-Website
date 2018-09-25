@@ -1,0 +1,47 @@
+﻿@model News.Models.Image
+
+@{
+    ViewBag.Title = "Upload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload</h2>
+@using (Html.BeginForm("CreateIndividual", "Images", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    @Html.ValidationSummary(true)
+    <table>
+        <tr>
+            <td>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.userName, "User Name", htmlAttributes: new { })
+
+                    @*@Html.EditorFor(model => model.authorId, new { htmlAttributes = new { @class = "form-control" } })*@
+                    @Html.DisplayFor(model => model.userName)
+                    @Html.HiddenFor(model => model.userName, htmlAttributes: new { @class = "form-control" })
+
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Select File :
+            </td>
+            <td>
+                @Html.TextBoxFor(Model => Model.File, new { type = "file" })
+                @Html.ValidationMessage("CustomError")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+                @*<input type="submit" value="Upload" />*@
+                <button class="btn btn-primary" type="submit">Upload</button>
+            </td>
+        </tr>
+    </table>
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

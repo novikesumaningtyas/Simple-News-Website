@@ -1,0 +1,67 @@
+﻿@model News.Models.Article
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Article</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.Label("Title")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.Label("Author ID")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.authorId)
+        </dd>
+
+
+        <dt>
+            @Html.Label("Date")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            @Html.Label("Topic")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.topic)
+        </dd>
+
+        <dt>
+            @Html.Label("Content")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content)
+        </dd>
+
+        <dt>
+            @Html.Label("Created By")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Journalist1.FName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.articleID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

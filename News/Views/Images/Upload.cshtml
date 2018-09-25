@@ -1,0 +1,35 @@
+﻿@model News.Models.Image
+
+@{
+    ViewBag.Title = "Upload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload</h2>
+@using (Html.BeginForm("Upload", "Images", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    @Html.ValidationSummary(true)
+    <table>
+        <tr>
+            <td>
+                Select File :
+            </td>
+            <td>
+                @Html.TextBoxFor(Model => Model.File, new { type = "file" })
+                @Html.ValidationMessage("CustomError")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+                @*<input type="submit" value="Upload" />*@
+                <button class="btn btn-primary" type="submit">Upload</button>
+            </td>
+        </tr>
+    </table>
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

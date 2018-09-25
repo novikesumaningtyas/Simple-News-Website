@@ -1,0 +1,14 @@
+﻿#data tbody tr.odd
+{
+  background-color:darkgray;
+}
+
+#data  tr.even:hover 
+{
+  background-color: #ECFFB3;
+}
+
+#data  tr.odd:hover 
+{
+  background-color: #ECFFB3;
+}

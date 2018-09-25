@@ -1,0 +1,574 @@
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\News\News\obj\Debug\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add pict 2\News\News\obj\Debug\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email\News\News\obj\Debug\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\add email_ini jurnalisnya jalan\News\News\obj\Debug\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Assignment\Distinction\Experiment\ini udah ada user List\News\News\obj\Debug\News.pdb
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\ApplicationInsights.config
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\csc.exe
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\vbc.exe
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\VBCSCompiler.exe
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\News.dll.config
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\News.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\News.pdb
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Antlr3.Runtime.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\EntityFramework.SqlServer.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.Web.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Google.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Newtonsoft.Json.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Owin.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Helpers.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Mvc.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Optimization.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.Razor.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\WebGrease.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.Web.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Helpers.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Mvc.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Optimization.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\System.Web.WebPages.Razor.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Antlr3.Runtime.pdb
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Newtonsoft.Json.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\EntityFramework.SqlServer.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Google.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\obj\Debug\News.dll
+D:\S2-2017\INTERNET APP DEV\Tutorial\Internet App Dev\FIT5032-All Work-Novi Kesumaningtyas\Distinction\News\News\obj\Debug\News.pdb
+D:\GitRepo\Simple-News-Website\News\bin\ApplicationInsights.config
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\csc.exe
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\System.Collections.Immutable.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\vbc.exe
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\VBCSCompiler.exe
+D:\GitRepo\Simple-News-Website\News\bin\roslyn\VBCSCompiler.exe.config
+D:\GitRepo\Simple-News-Website\News\bin\News.dll.config
+D:\GitRepo\Simple-News-Website\News\bin\News.dll
+D:\GitRepo\Simple-News-Website\News\bin\News.pdb
+D:\GitRepo\Simple-News-Website\News\bin\Antlr3.Runtime.dll
+D:\GitRepo\Simple-News-Website\News\bin\EntityFramework.dll
+D:\GitRepo\Simple-News-Website\News\bin\EntityFramework.SqlServer.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.Web.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.WindowsServer.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.ApplicationInsights.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Google.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Web.Infrastructure.dll
+D:\GitRepo\Simple-News-Website\News\bin\Newtonsoft.Json.dll
+D:\GitRepo\Simple-News-Website\News\bin\Owin.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Helpers.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Mvc.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Optimization.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Razor.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.Deployment.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.dll
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.Razor.dll
+D:\GitRepo\Simple-News-Website\News\bin\WebGrease.dll
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.Web.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AI.WindowsServer.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.ApplicationInsights.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Helpers.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Mvc.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Optimization.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.Razor.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.Deployment.xml
+D:\GitRepo\Simple-News-Website\News\bin\System.Web.WebPages.Razor.xml
+D:\GitRepo\Simple-News-Website\News\bin\Antlr3.Runtime.pdb
+D:\GitRepo\Simple-News-Website\News\bin\Newtonsoft.Json.xml
+D:\GitRepo\Simple-News-Website\News\bin\EntityFramework.xml
+D:\GitRepo\Simple-News-Website\News\bin\EntityFramework.SqlServer.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Google.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitRepo\Simple-News-Website\News\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitRepo\Simple-News-Website\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\GitRepo\Simple-News-Website\News\obj\Debug\News.dll
+D:\GitRepo\Simple-News-Website\News\obj\Debug\News.pdb

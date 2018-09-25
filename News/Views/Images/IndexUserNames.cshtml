@@ -1,0 +1,64 @@
+﻿@model List<News.Models.Image>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">MY GALLERY</h2>
+
+
+<p>
+    @Html.ActionLink("+ Upload New Image (logged in user)", "CreateIndividual")
+</p>
+<p>
+    @*@Html.ActionLink("Upload New", "Upload")*@
+</p>
+
+
+<table class="table">
+    @{
+        int j = 0;
+        for (int i = 0; i < Model.Count(); i += 15)
+        {
+            j = i;
+            <tr>
+                @while (j < 1 + 3 && j < Model.Count())
+                {
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = Model[j].imageID }) | @Html.ActionLink("Details", "Details", new { id = Model[j].imageID })  <br />
+                        <img src="data:image/png;base64,@Convert.ToBase64String(Model[j].image1,0,Model[j].image1.Length)" width="220" />
+
+                    </td>
+                    j++;
+                }
+            </tr>
+
+            <tr>
+                @while (j < 8 && j < Model.Count())
+                {
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = Model[j].imageID }) | @Html.ActionLink("Details", "Details", new { id = Model[j].imageID })  <br />
+                        <img src="data:image/png;base64,@Convert.ToBase64String(Model[j].image1,0,Model[j].image1.Length)" width="220" />
+                    </td>
+                    j++;
+
+                }
+            </tr>
+            <tr>
+                @while (j < 12 && j < Model.Count())
+                {
+                    <td>
+                        @Html.ActionLink("Delete", "Delete", new { id = Model[j].imageID }) | @Html.ActionLink("Details", "Details", new { id = Model[j].imageID })  <br />
+                        <img src="data:image/png;base64,@Convert.ToBase64String(Model[j].image1,0,Model[j].image1.Length)" width="220" />
+                    </td>
+                    j++;
+
+                }
+            </tr>
+
+        }
+
+    }
+
+</table>

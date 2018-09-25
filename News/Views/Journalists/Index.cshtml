@@ -1,0 +1,73 @@
+﻿@model IEnumerable<News.Models.Journalist>
+
+@Scripts.Render("~/Scripts/Table.js")
+<link href="~/Content/StyleSheet2.css" rel="stylesheet" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Our Journalists!</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p>
+    <h5 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"> Put any keyword you want to search in Search Box</h5>
+</p>
+<table id="data" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("First Name")
+            </th>
+            <th>
+                @Html.Label("Last Name")
+            </th>
+            <th>
+                @Html.Label("Phone")
+            </th>
+            <th>
+                @Html.Label("Email")
+            </th>
+            <th>
+                @Html.Label("Join Date")
+            </th>
+            <th>
+                @Html.Label("Short Description")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.joinDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.introduction)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.journalistID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.journalistID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.journalistID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

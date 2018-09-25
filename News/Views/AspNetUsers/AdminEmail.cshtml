@@ -1,0 +1,55 @@
+﻿@model News.Models.AspNetUserModel
+@{
+    ViewBag.Title = "Send Email";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Send Email to User</h2>
+@using (Html.BeginForm("AdminEmail", "AspNetUsers", FormMethod.Post, new { encType = "multipart/form-data", name = "myform" }))
+{
+    <div id="checkboxes">
+        <table id="user" class="table">
+            <thead>
+                <tr>
+                    <th>@Html.CheckBox("selectAll", false, new { id = "select_all" })</th>
+                    <th>User Name</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.AspNetUsers.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            @Html.CheckBoxFor(model => model.AspNetUsers[i].isChecked, new { @class = "checkGroup1" })
+                            @Html.HiddenFor(model => model.AspNetUsers[i].Id)
+                            @Html.HiddenFor(model => model.AspNetUsers[i].Email)
+                            @Html.HiddenFor(model => model.AspNetUsers[i].UserName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(model => model.AspNetUsers[i].UserName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(model => model.AspNetUsers[i].Email)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <hr />
+    <br />
+    <input type="submit" name="operation" id="email" value="Email Selected" />
+}
+@section Scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#select_all').click(function () {
+                $('.checkGroup1').prop('checked',this.checked);
+            });
+        });
+    </script>
+}
+

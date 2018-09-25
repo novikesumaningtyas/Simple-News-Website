@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Administration Page</h3>
+
+<div class="table" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">
+    <div class="row">
+        <ul>
+            <li>@Html.ActionLink("Send Email To Users", "AdminEmail", "AspNetUsers")</li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul>
+            <li>@Html.ActionLink("Go to Articles", "Index", "Articles")</li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul>
+            <li>@Html.ActionLink("Create Articles", "Create", "Articles")</li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul>
+            <li>@Html.ActionLink("Go to Journalist", "Index", "Journalists")</li>
+        </ul>
+    </div>
+    <div class="row">
+        <ul>
+            <li>@Html.ActionLink("Add Journalist", "Create", "Journalists")</li>
+        </ul>
+    </div>
+</div>
